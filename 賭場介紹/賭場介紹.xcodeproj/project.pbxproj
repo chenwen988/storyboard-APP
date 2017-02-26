@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		38185CA01E5073220069417D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38185C9F1E5073220069417D /* AppDelegate.swift */; };
-		38185CA21E5073220069417D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38185CA11E5073220069417D /* ViewController.swift */; };
-		38185CA51E5073220069417D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38185CA31E5073220069417D /* Main.storyboard */; };
-		38185CA71E5073220069417D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38185CA61E5073220069417D /* Assets.xcassets */; };
-		38185CAA1E5073220069417D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38185CA81E5073220069417D /* LaunchScreen.storyboard */; };
+		38030D981E54B3B200E707C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38030D971E54B3B200E707C8 /* AppDelegate.swift */; };
+		38030D9A1E54B3B200E707C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38030D991E54B3B200E707C8 /* ViewController.swift */; };
+		38030D9D1E54B3B200E707C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38030D9B1E54B3B200E707C8 /* Main.storyboard */; };
+		38030D9F1E54B3B200E707C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38030D9E1E54B3B200E707C8 /* Assets.xcassets */; };
+		38030DA21E54B3B200E707C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38030DA01E54B3B200E707C8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		38185C9C1E5073220069417D /* AppClass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppClass.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		38185C9F1E5073220069417D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		38185CA11E5073220069417D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		38185CA41E5073220069417D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		38185CA61E5073220069417D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		38185CA91E5073220069417D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		38185CAB1E5073220069417D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38030D941E54B3B200E707C8 /* 賭場介紹.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "賭場介紹.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		38030D971E54B3B200E707C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		38030D991E54B3B200E707C8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		38030D9C1E54B3B200E707C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		38030D9E1E54B3B200E707C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		38030DA11E54B3B200E707C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		38030DA31E54B3B200E707C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		38185C991E5073210069417D /* Frameworks */ = {
+		38030D911E54B3B200E707C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,73 +35,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		38185C931E5073210069417D = {
+		38030D8B1E54B3B200E707C8 = {
 			isa = PBXGroup;
 			children = (
-				38185C9E1E5073220069417D /* AppClass */,
-				38185C9D1E5073220069417D /* Products */,
+				38030D961E54B3B200E707C8 /* 賭場介紹 */,
+				38030D951E54B3B200E707C8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		38185C9D1E5073220069417D /* Products */ = {
+		38030D951E54B3B200E707C8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				38185C9C1E5073220069417D /* AppClass.app */,
+				38030D941E54B3B200E707C8 /* 賭場介紹.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		38185C9E1E5073220069417D /* AppClass */ = {
+		38030D961E54B3B200E707C8 /* 賭場介紹 */ = {
 			isa = PBXGroup;
 			children = (
-				38185C9F1E5073220069417D /* AppDelegate.swift */,
-				38185CA11E5073220069417D /* ViewController.swift */,
-				38185CA31E5073220069417D /* Main.storyboard */,
-				38185CA61E5073220069417D /* Assets.xcassets */,
-				38185CA81E5073220069417D /* LaunchScreen.storyboard */,
-				38185CAB1E5073220069417D /* Info.plist */,
+				38030D971E54B3B200E707C8 /* AppDelegate.swift */,
+				38030D991E54B3B200E707C8 /* ViewController.swift */,
+				38030D9B1E54B3B200E707C8 /* Main.storyboard */,
+				38030D9E1E54B3B200E707C8 /* Assets.xcassets */,
+				38030DA01E54B3B200E707C8 /* LaunchScreen.storyboard */,
+				38030DA31E54B3B200E707C8 /* Info.plist */,
 			);
-			path = AppClass;
+			path = "賭場介紹";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		38185C9B1E5073210069417D /* AppClass */ = {
+		38030D931E54B3B200E707C8 /* 賭場介紹 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 38185CAE1E5073220069417D /* Build configuration list for PBXNativeTarget "AppClass" */;
+			buildConfigurationList = 38030DA61E54B3B200E707C8 /* Build configuration list for PBXNativeTarget "賭場介紹" */;
 			buildPhases = (
-				38185C981E5073210069417D /* Sources */,
-				38185C991E5073210069417D /* Frameworks */,
-				38185C9A1E5073210069417D /* Resources */,
+				38030D901E54B3B200E707C8 /* Sources */,
+				38030D911E54B3B200E707C8 /* Frameworks */,
+				38030D921E54B3B200E707C8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AppClass;
-			productName = AppClass;
-			productReference = 38185C9C1E5073220069417D /* AppClass.app */;
+			name = "賭場介紹";
+			productName = "賭場介紹";
+			productReference = 38030D941E54B3B200E707C8 /* 賭場介紹.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		38185C941E5073210069417D /* Project object */ = {
+		38030D8C1E54B3B200E707C8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
-				ORGANIZATIONNAME = Jennifer;
+				ORGANIZATIONNAME = "Jennifer Ｗu";
 				TargetAttributes = {
-					38185C9B1E5073210069417D = {
+					38030D931E54B3B200E707C8 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 9FAWZSVCRS;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 38185C971E5073210069417D /* Build configuration list for PBXProject "AppClass" */;
+			buildConfigurationList = 38030D8F1E54B3B200E707C8 /* Build configuration list for PBXProject "賭場介紹" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -109,54 +109,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 38185C931E5073210069417D;
-			productRefGroup = 38185C9D1E5073220069417D /* Products */;
+			mainGroup = 38030D8B1E54B3B200E707C8;
+			productRefGroup = 38030D951E54B3B200E707C8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				38185C9B1E5073210069417D /* AppClass */,
+				38030D931E54B3B200E707C8 /* 賭場介紹 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		38185C9A1E5073210069417D /* Resources */ = {
+		38030D921E54B3B200E707C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38185CAA1E5073220069417D /* LaunchScreen.storyboard in Resources */,
-				38185CA71E5073220069417D /* Assets.xcassets in Resources */,
-				38185CA51E5073220069417D /* Main.storyboard in Resources */,
+				38030DA21E54B3B200E707C8 /* LaunchScreen.storyboard in Resources */,
+				38030D9F1E54B3B200E707C8 /* Assets.xcassets in Resources */,
+				38030D9D1E54B3B200E707C8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		38185C981E5073210069417D /* Sources */ = {
+		38030D901E54B3B200E707C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38185CA21E5073220069417D /* ViewController.swift in Sources */,
-				38185CA01E5073220069417D /* AppDelegate.swift in Sources */,
+				38030D9A1E54B3B200E707C8 /* ViewController.swift in Sources */,
+				38030D981E54B3B200E707C8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		38185CA31E5073220069417D /* Main.storyboard */ = {
+		38030D9B1E54B3B200E707C8 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				38185CA41E5073220069417D /* Base */,
+				38030D9C1E54B3B200E707C8 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		38185CA81E5073220069417D /* LaunchScreen.storyboard */ = {
+		38030DA01E54B3B200E707C8 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				38185CA91E5073220069417D /* Base */,
+				38030DA11E54B3B200E707C8 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -164,7 +164,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		38185CAC1E5073220069417D /* Debug */ = {
+		38030DA41E54B3B200E707C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -210,10 +210,11 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		38185CAD1E5073220069417D /* Release */ = {
+		38030DA51E54B3B200E707C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -251,61 +252,58 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		38185CAF1E5073220069417D /* Debug */ = {
+		38030DA71E54B3B200E707C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9FAWZSVCRS;
-				INFOPLIST_FILE = AppClass/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				INFOPLIST_FILE = "賭場介紹/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jennifer.AppClass;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jenniferwu.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		38185CB01E5073220069417D /* Release */ = {
+		38030DA81E54B3B200E707C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9FAWZSVCRS;
-				INFOPLIST_FILE = AppClass/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				INFOPLIST_FILE = "賭場介紹/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jennifer.AppClass;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jenniferwu.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		38185C971E5073210069417D /* Build configuration list for PBXProject "AppClass" */ = {
+		38030D8F1E54B3B200E707C8 /* Build configuration list for PBXProject "賭場介紹" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				38185CAC1E5073220069417D /* Debug */,
-				38185CAD1E5073220069417D /* Release */,
+				38030DA41E54B3B200E707C8 /* Debug */,
+				38030DA51E54B3B200E707C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		38185CAE1E5073220069417D /* Build configuration list for PBXNativeTarget "AppClass" */ = {
+		38030DA61E54B3B200E707C8 /* Build configuration list for PBXNativeTarget "賭場介紹" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				38185CAF1E5073220069417D /* Debug */,
-				38185CB01E5073220069417D /* Release */,
+				38030DA71E54B3B200E707C8 /* Debug */,
+				38030DA81E54B3B200E707C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 38185C941E5073210069417D /* Project object */;
+	rootObject = 38030D8C1E54B3B200E707C8 /* Project object */;
 }
